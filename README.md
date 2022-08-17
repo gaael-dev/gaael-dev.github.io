@@ -10,37 +10,29 @@ _Nothing really interesting here, I'm only publishing this repo to use GitHub Pa
 ## v0.1
 - [x] create repo
 - [x] create README
-- [ ] create Gemfile, specify and install gems
-- [ ] create folders structure
-- [ ] create config file
-- [ ] create pages
-  - [ ] index
-  - [ ] workshops
-  - [ ] consultancy
-  - [ ] about
-  - [ ] contact
-- [ ] create default layout
-- [ ] create main includes:
-  - [ ] navigation
-  - [ ] footer
-- [ ] create basic data
-- [ ] create basic styling (scss)
-- [ ] update README
-- [ ] realease version 0.1
+- [x] create Gemfile, specify and install gems
+- [x] create folders structure
+- [x] create config file
+- [x] create CNAME file
+- [x] create pages
+  - [x] index
+  - [x] workshops
+  - [x] consultancy
+  - [x] about
+  - [x] contact
+- [x] create default layout
+- [x] create main includes:
+  - [x] navigation
+  - [x] footer
+- [x] create basic data
+- [x] update README
+- [x] realease version 0.1
 
 ## v0.2
+- [ ] create basic styling (scss)
 - [ ] lorem
 - [ ] lorem
 - [ ] lorem
 - [ ] lorem
 - [ ] lorem
 - [ ] lorem
-- [ ] lorem
-
-
-
-
-
-
-
-
