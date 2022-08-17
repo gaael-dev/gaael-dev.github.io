@@ -1,0 +1,14 @@
+- name: Accueil
+  link: /
+
+- name: Ateliers et formations
+  link: /workshops.html
+
+- name: Accompagnement à la transition
+  link: /consultancy.html
+
+- name: À propos
+  link: /about.html
+
+- name: Contact
+  link: /contact.html
